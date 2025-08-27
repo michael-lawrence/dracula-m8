@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for the [Dirtywave M8](https://dirtywave.com/products/m8-tracker-model-02)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for the [Dirtywave M8](https://dirtywave.com/products/m8-tracker-model-02).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/m8](https://draculatheme.com/m8).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/m8/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Michael Lawrence](https://github.com/michael-lawrence.png?size=100)](https://github.com/michael-lawrence) |
+| ------------------------------------------------------------------------------------------------------------ |
+| [Michael Lawrence](https://github.com/michael-lawrence)                                                      |
 
 ## Community
 
